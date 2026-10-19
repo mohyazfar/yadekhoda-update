@@ -1,4 +1,9 @@
 {
   "latestVersionCode": 4,
-  "latestVersionName": "1.0.4"
+  "latestVersionName": "1.0.4",
+  "releaseNotes": [
+    "افزودن ویجیت ذکر روز های هفته",
+    "افزودن میانبر به ذکرها و دوره ها",
+    "رفع باگ‌های گزارش شده در نسخه قبل",
+    ]
 }
