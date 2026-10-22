@@ -1,7 +1,7 @@
 {
   "latestVersionCode": 4,
   "latestVersionName": "1.0.4",
-  "minVersionCode": 4,
+  "minVersionCode": 3,
   "releaseNotes": [
     "افزودن ویجت ذکر روزهای هفته",
     "افزودن میانبر به ذکرها و دوره‌ها",
